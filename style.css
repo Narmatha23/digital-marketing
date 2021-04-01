@@ -60,8 +60,6 @@ dd, dl, dt, li, ol, ul {
 
   .container{
       position: relative;
-      width: 1519.200px;
-      height: 100%;
   }
   #wrap{
       position: relative;
